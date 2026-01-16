@@ -1,0 +1,896 @@
+{
+  "science.adi8577 sm": {
+    "item_key": "IGF2BJ8G",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/science.adi8577_sm.pdf",
+    "title": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
+    "collection": "drug_screenings"
+  },
+  "VCWORLD": {
+    "item_key": "XA53H472",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/VCWORLD.pdf",
+    "title": "VCWorld: A Biological World Model for Virtual Cell Simulation",
+    "collection": "virtual_cells"
+  },
+  "Predicting cellular responses to perturbation": {
+    "item_key": "RSMHQ4NF",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Predicting cellular responses to perturbation.pdf",
+    "title": "Predicting cellular responses to perturbation across diverse contexts with State",
+    "collection": "virtual_cells"
+  },
+  "PIIS0092867425006750": {
+    "item_key": "RKUUH5UG",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/PIIS0092867425006750.pdf",
+    "title": "Virtual Cell Challenge: Toward a Turing test for the virtual cell",
+    "collection": "virtual_cells"
+  },
+  "Large Language Models Meet Virtual Cell A Survey": {
+    "item_key": "9MW47Q9E",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Large Language Models Meet Virtual Cell_ A Survey.pdf",
+    "title": "Large Language Models Meet Virtual Cell: A Survey",
+    "collection": "virtual_cells"
+  },
+  "spatialAgent": {
+    "item_key": "QS798SHX",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/spatialAgent.pdf",
+    "title": "SpatialAgent: An autonomous AI agent for spatial biology",
+    "collection": "spatial_omics"
+  },
+  "science.ade2292": {
+    "item_key": "D3AMNUD5",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/science.ade2292.pdf",
+    "title": "CXCL9:SPP1 macrophage polarity identifies a network of cellular programs that control human cancers",
+    "collection": "spatial_omics"
+  },
+  "s41592 025 02707 1": {
+    "item_key": "9TNK2HX5",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41592-025-02707-1.pdf",
+    "title": "A visual–omics foundation model to bridge histopathology with spatial transcriptomics",
+    "collection": "spatial_omics"
+  },
+  "review Spatial single cell omics": {
+    "item_key": "JAEUQ99N",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/review-Spatial single-cell omics.pdf",
+    "title": "Spatial single-cell omics: new insights into liver diseases",
+    "collection": "spatial_omics"
+  },
+  "FireShot Capture 010 STalign｜邻近切片空间多组学对齐工具－空间转录和空间代谢实测可用": {
+    "item_key": "Q97Q6HTR",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/FireShot Capture 010 - STalign｜邻近切片空间多组学对齐工具－空间转录和空间代谢实测可用.pdf",
+    "title": "STalign​｜邻近切片空间多组学对齐工具（空间转录和空间代谢实测 可用）",
+    "collection": "spatial_omics"
+  },
+  "PIIS0092867424011590": {
+    "item_key": "E43HRDJJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/PIIS0092867424011590.pdf",
+    "title": "Spatiotemporal modeling of molecular holograms",
+    "collection": "spatial_omics"
+  },
+  "2025 Nature Genetics Spatially resolved multi omics of human metabolic dysfunction associated steatotic liver disease": {
+    "item_key": "8AHCHZ4A",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2025-Nature Genetics-Spatially resolved multi-omics of human metabolic dysfunction-associated steatotic liver disease.pdf",
+    "title": "Spatially resolved multi-omics of human metabolic dysfunction-associated steatotic liver disease",
+    "collection": "spatial_omics"
+  },
+  "sdata2018199": {
+    "item_key": "UEZTP7CJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/sdata2018199.pdf",
+    "title": "Data Descriptor: Transcriptomes of cochlear inner and outer hair cells from adult mice",
+    "collection": "single_cell_analysis"
+  },
+  "s41592 024 02235 4": {
+    "item_key": "WK2ZTAW8",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41592-024-02235-4.pdf",
+    "title": "Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis",
+    "collection": "single_cell_analysis"
+  },
+  "s41467 023 38621 3": {
+    "item_key": "FUBANAWU",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41467-023-38621-3.pdf",
+    "title": "Cochlear transcript diversity and its role in auditory functions implied by an otoferlin short isoform",
+    "collection": "single_cell_analysis"
+  },
+  "s41576 023 00685 8": {
+    "item_key": "S6PPC38J",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41576-023-00685-8.pdf",
+    "title": "The diversification of methods for studying cell–cell interactions and communication",
+    "collection": "single_cell_analysis"
+  },
+  "s41467 025 61944 2": {
+    "item_key": "GHBMZ4UI",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41467-025-61944-2.pdf",
+    "title": "Single-cell expression proﬁling of bat wing development",
+    "collection": "single_cell_analysis"
+  },
+  "popV cell annotation NG": {
+    "item_key": "FTDAQF52",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/popV-cell_annotation_NG.pdf",
+    "title": "Consensus prediction of cell type labels in single-cell data with popV",
+    "collection": "single_cell_analysis"
+  },
+  "nihms 1521379": {
+    "item_key": "CP9TDS3P",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/nihms-1521379.pdf",
+    "title": "Characterization of cell fate probabilities in single-cell data with Palantir",
+    "collection": "single_cell_analysis"
+  },
+  "gptcelltype": {
+    "item_key": "XJVJTGG7",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/gptcelltype.pdf",
+    "title": "GPTCelltype: Reference-free and cost-eﬀective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis",
+    "collection": "single_cell_analysis"
+  },
+  "biomolecules 15 00211": {
+    "item_key": "3ZJ37NKD",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/biomolecules-15-00211.pdf",
+    "title": "Single-Cell Landscape of the Cochlea Revealed Cell-Type-Specific Diversification in Hipposideros armiger Based on PacBio Long-Read Sequencing",
+    "collection": "single_cell_analysis"
+  },
+  "Transformer for one stop interpretable cell type annotation": {
+    "item_key": "89VFTI23",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Transformer for one stop interpretable cell type annotation.pdf",
+    "title": "Transformer for one stop interpretable cell type annotation",
+    "collection": "single_cell_analysis"
+  },
+  "TJP 594 4225": {
+    "item_key": "RUZ65DFW",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/TJP-594-4225.pdf",
+    "title": "Single cell transcriptome analysis of mouse carotid body glomus cells",
+    "collection": "single_cell_analysis"
+  },
+  "Tahoe 1x 2025": {
+    "item_key": "6ETKUJHC",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Tahoe-1x-2025.pdf",
+    "title": "Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters",
+    "collection": "single_cell_analysis"
+  },
+  "Tabula Sapiens reveals transcription factor expression, senescence effects, and sex specific features in cell types from 28 human organs and tissues": {
+    "item_key": "TVT86USX",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Tabula Sapiens reveals transcription factor expression, senescence effects, and sex-specific features in cell types from 28 human organs and tissues.pdf",
+    "title": "Tabula Sapiens reveals transcription factor expression, senescence effects, and sex-specific features in cell types from 28 human organs and tissues",
+    "collection": "single_cell_analysis"
+  },
+  "PerturBase": {
+    "item_key": "VF2MSPVJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/PerturBase.pdf",
+    "title": "Per turBase: a comprehensiv e database f or single-cell perturbation data analysis and visualization",
+    "collection": "single_cell_analysis"
+  },
+  "CLSTN2": {
+    "item_key": "75U37X3E",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/CLSTN2.pdf",
+    "title": "Influence of vascular endothelial growth factor stimulation and serum deprivation on gene activation patterns of human adipose tissue-derived stromal cells",
+    "collection": "single_cell_analysis"
+  },
+  "CLSTN2 3": {
+    "item_key": "FBRBH3TU",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/CLSTN2-3.pdf",
+    "title": "Transcriptomic Changes of Murine Visceral Fat Exposed to Intermittent Hypoxia at Single Cell Resolution",
+    "collection": "single_cell_analysis"
+  },
+  "2025.Tahoe 100M": {
+    "item_key": "XXXM7TUH",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2025.Tahoe-100M.pdf",
+    "title": "Tahoe-100M: A Giga-Scale Single-Cell Perturbation Atlas for Context-Dependent Gene Function and Cellular Modeling",
+    "collection": "single_cell_analysis"
+  },
+  "2020.06.30.175778v1.full": {
+    "item_key": "S75UREUR",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2020.06.30.175778v1.full.pdf",
+    "title": "Single-cell transcriptional atlas of the Chinese horseshoe bat (Rhinolophus sinicus) provides insight into the cellular mechanisms which enable bats to be viral reservoirs",
+    "collection": "single_cell_analysis"
+  },
+  "science.adl0799": {
+    "item_key": "FRIUW4JS",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/science.adl0799.pdf",
+    "title": "Multi-omics landscape and molecular basis of radiation tolerance in a tardigrade",
+    "collection": "multi_omics"
+  },
+  "scGPT supplementary": {
+    "item_key": "7IPNWKDK",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/scGPT-supplementary.pdf",
+    "title": "scGPT: toward building a foundation model for single-cell multi-omics using generative AI",
+    "collection": "multi_omics"
+  },
+  "2025.10.10.Deep learning models reading clinical data and liver omics strongly distinguish NASH from steatosis and suggest new genes involved in liver disease severity": {
+    "item_key": "TT8K2XWS",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2025.10.10.Deep learning models reading clinical data and liver omics strongly distinguish NASH from steatosis and suggest new genes involved in liver disease severity.pdf",
+    "title": "Deep learning models reading clinical data and liver omics strongly distinguish NASH from steatosis and suggest new genes involved in liver disease severity",
+    "collection": "multi_omics"
+  },
+  "Applications of multi‐omics analysis in human diseases": {
+    "item_key": "9DQZHPPZ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Applications of multi‐omics analysis in human diseases.pdf",
+    "title": "Applications of multi-omics analysis in human diseases",
+    "collection": "multi_omics"
+  },
+  "A Multi Omics Framework for Decoding Disease Mechanisms": {
+    "item_key": "N345RQJU",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/A Multi-Omics Framework for Decoding Disease Mechanisms.pdf",
+    "title": "A Multi-Omics Framework for Decoding Disease Mechanisms: Insights From Methylmalonic Aciduria",
+    "collection": "multi_omics"
+  },
+  "遗传学(第4版十二五普通高等教育本科国家级规划教材)生命科学经典教材系列 (匿名) (Z Library)": {
+    "item_key": "8PIDGGJK",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/遗传学(第4版十二五普通高等教育本科国家级规划教材)生命科学经典教材系列 (匿名) (Z-Library).pdf",
+    "title": "遗传学",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "植物天然产物大数据中心人工智能与云服务算力平台用户账号申请表v26389058926100846631343044": {
+    "item_key": "H6A23NV6",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/植物天然产物大数据中心人工智能与云服务算力平台用户账号申请表v26389058926100846631343044.docx",
+    "title": "植物天然产物大数据中心人工智能与云服务算力平台用户账号申请表v26389058926100846631343044",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "shah et al 2015 contingency and entrenchment in protein evolution under purifying selection": {
+    "item_key": "I6FBC2KV",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/shah-et-al-2015-contingency-and-entrenchment-in-protein-evolution-under-purifying-selection.pdf",
+    "title": "Contingency and entrenchment in protein evolution under purifying selection",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "science.abn3107": {
+    "item_key": "VD5U4XM3",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/science.abn3107.pdf",
+    "title": "Integrating gene annotation with orthology inference at scale",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "s41586 022 04824 9": {
+    "item_key": "EVDS8B4J",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41586-022-04824-9.pdf",
+    "title": "Grey wolf genomic history reveals a dual ancestry of dogs",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "science.abb5962": {
+    "item_key": "IBSB8JX8",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/science.abb5962.pdf",
+    "title": "Selection enhances protein evolvability by increasing mutational robustness and foldability",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "s41586 024 08112 6": {
+    "item_key": "SR3HWKU5",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41586-024-08112-6.pdf",
+    "title": "The genomic natural history of the aurochs",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "s41598 024 62455 8": {
+    "item_key": "GQHHPP74",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41598-024-62455-8.pdf",
+    "title": "Convergent accelerated evolution of mammal-specific conserved non-coding elements in hibernators",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "s12864 024 10508 7": {
+    "item_key": "TGT5BI5N",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s12864-024-10508-7.pdf",
+    "title": "Whole-genome SNP allele frequency differences between Tibetan and Large white pigs reveal genes associated with skeletal muscle growth",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "s41467 022 28827 2": {
+    "item_key": "BXKFF2DC",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41467-022-28827-2.pdf",
+    "title": "Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "s41467 021 23804 7": {
+    "item_key": "9FPW9FDI",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41467-021-23804-7.pdf",
+    "title": "Natural selection increases female fitness by reversing the exaggeration of a male sexually selected trait",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "nihms920905": {
+    "item_key": "GZ83D442",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/nihms920905.pdf",
+    "title": "Genetic Mapping and Biochemical Basis of Yellow Feather Pigmentation in Budgerigars",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "hochachka et al 1998 our ancestral physiological phenotype an adaptation for hypoxia tolerance and for endurance": {
+    "item_key": "A9RGNFBF",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/hochachka-et-al-1998-our-ancestral-physiological-phenotype-an-adaptation-for-hypoxia-tolerance-and-for-endurance.pdf",
+    "title": "Our ancestral physiological phenotype: An adaptation for hypoxia tolerance and for endurance performance?",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "elife 25884 v1": {
+    "item_key": "Z44MUMKD",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/elife-25884-v1.pdf",
+    "title": "Subterranean mammals show convergent regression in ocular genes and enhancers, along with adaptation to tunneling",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "The emerging view on the origin and early evolution of eukaryotic cells": {
+    "item_key": "UKJ8XR38",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/The emerging view on the origin and early evolution of eukaryotic cells.pdf",
+    "title": "The emerging view on the origin and early evolution of eukaryotic cells",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "Tibetan genome nwz160": {
+    "item_key": "7Q63RPT6",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Tibetan_genome_nwz160.pdf",
+    "title": "De novo assembly of a Tibetan genome and identification of novel structural variants associated with high-altitude adaptation",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "PIIS0960982224012387": {
+    "item_key": "R9J6MBIJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/PIIS0960982224012387.pdf",
+    "title": "Integrative analyses of convergent adaptation in sympatric extremophile fishes",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "NEE cubstl": {
+    "item_key": "5CVRIWIB",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/NEE_cubstl.pdf",
+    "title": "Detecting macroevolutionary genotype–phenotype associations using error-corrected rates of protein convergence",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "Evo2": {
+    "item_key": "PNB2BAWM",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Evo2.pdf",
+    "title": "Genome modeling and design across all domains of life with Evo 2",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "32200353 ProgressReport 2024": {
+    "item_key": "V73AJGWN",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/32200353_ProgressReport_2024.pdf",
+    "title": "RETSAT低氧适应性突变对心血管表型的影响及其分子机制",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "1471 2164 14 916": {
+    "item_key": "IW6XHJC9",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/1471-2164-14-916.pdf",
+    "title": "Comparative inner ear transcriptome analysis between the Rickett’s big-footed bats (Myotis ricketti) and the greater short-nosed fruit bats (Cynopterus sphinx)",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "12864 2024 Article 10910": {
+    "item_key": "7KSS5DA8",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/12864_2024_Article_10910.pdf",
+    "title": "Molecular evolution of toothed whale genes reveals adaptations to echolocating in different environments",
+    "collection": "genetic_evolution_adaptations"
+  },
+  "evae241": {
+    "item_key": "IHVNDBFS",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/evae241.pdf",
+    "title": "Characterization of single-cell cis-regulatory elements informs implications for cell differentiation",
+    "collection": "gene_regulatory_networks"
+  },
+  "The ENCODE Registry of ccREs": {
+    "item_key": "C7MSSH4D",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/The ENCODE Registry of ccREs.pdf",
+    "title": "The ENCODE Registry of ccREs and SCREEN",
+    "collection": "gene_regulatory_networks"
+  },
+  "DrugClip 2016": {
+    "item_key": "2M2V54JF",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/DrugClip-2016.pdf",
+    "title": "Deep contrastive learning enables genome-­wide virtual screening",
+    "collection": "gene_regulatory_networks"
+  },
+  "CLSTN2 2": {
+    "item_key": "N7AG22KG",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/CLSTN2-2.pdf",
+    "title": "Gene regulatory changes underlie developmental plasticity in respiration and aerobic performance in highland deer mice",
+    "collection": "gene_regulatory_networks"
+  },
+  "AlphaGenome": {
+    "item_key": "QQAMJ9MU",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/AlphaGenome.pdf",
+    "title": "AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model",
+    "collection": "gene_regulatory_networks"
+  },
+  "2024.11.06.24316407v1.full": {
+    "item_key": "ZWXMDI9X",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2024.11.06.24316407v1.full.pdf",
+    "title": "ENCODE guided WGS analysis can identify trait associated regulatory regions driven by rare-variants",
+    "collection": "gene_regulatory_networks"
+  },
+  "2025 Nat AI learns from chromatin data to uncover gene interactions": {
+    "item_key": "T3ZC79FN",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2025 Nat_AI learns from chromatin data to uncover gene interactions.pdf",
+    "title": "AI uncovers gene-regulatory interactions",
+    "collection": "gene_regulatory_networks"
+  },
+  "s41467 020 17440 w": {
+    "item_key": "PFHM9TWD",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41467-020-17440-w.pdf",
+    "title": "Multiplexed single-cell transcriptional response profiling to define cancer vulnerabilities and therapeutic mechanism of action",
+    "collection": "drug_screenings"
+  },
+  "TranSiGen 2024": {
+    "item_key": "VBCJ7R5I",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/TranSiGen-2024.pdf",
+    "title": "Deep representation learning of chemical-induced transcriptional profile for phenotype-based drug discovery",
+    "collection": "drug_screenings"
+  },
+  "S2Drug 2026": {
+    "item_key": "V7T875PQ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/S2Drug-2026.pdf",
+    "title": "S2Drug: Bridging Protein Sequence and 3D Structure in Contrastive Representation Learning for Virtual Screening",
+    "collection": "drug_screenings"
+  },
+  "PRnet 2024": {
+    "item_key": "F5IR3CVD",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/PRnet -2024.pdf",
+    "title": "Predicting transcriptional responses to novel chemical perturbations using deep generative model for drug discovery",
+    "collection": "drug_screenings"
+  },
+  "Nat. Methods 2025 High throughput profiling of chemical induced gene expression across 93,644 perturbations": {
+    "item_key": "I67MP4UN",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Nat._Methods_2025_High-throughput_profiling_of_chemical-induced_gene_expression_across_93,644_perturbations.pdf",
+    "title": "High-throughput profiling of chemical-induced gene expression across 93,644 perturbations",
+    "collection": "drug_screenings"
+  },
+  "DRUG seq for miniaturized high throughput transcriptome profiling in drug discovery": {
+    "item_key": "AS4S9V2E",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/DRUG-seq for miniaturized high-throughput transcriptome profiling in drug discovery.pdf",
+    "title": "DRUG-seq for miniaturized high-throughput transcriptome proïling in drug discovery",
+    "collection": "drug_screenings"
+  },
+  "DeepCE": {
+    "item_key": "WXFMZJ6S",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/DeepCE.pdf",
+    "title": "A deep learning framework for high-throughput mechanism-driven phenotype compound screening and its application to COVID-19 drug repurposing",
+    "collection": "drug_screenings"
+  },
+  "DrugClip 2026 SI": {
+    "item_key": "X2XIENDF",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/DrugClip-2026-SI.pdf",
+    "title": "Deep contrastive learning enables genome-wide virtual screening",
+    "collection": "drug_screenings"
+  },
+  "DRUG seq Provides Unbiased Biological Activity Readouts for Neuroscience Drug Discovery": {
+    "item_key": "IDTTP7IE",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/DRUG-seq Provides Unbiased Biological Activity Readouts for Neuroscience Drug Discovery.pdf",
+    "title": "DRUG-seq Provides Unbiased Biological Activity Readouts for Neuroscience Drug Discovery",
+    "collection": "drug_screenings"
+  },
+  "DRUG seq Supplementary": {
+    "item_key": "VQPFW7BZ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/DRUG-seq Supplementary.pdf",
+    "title": "DRUG-seq: Miniaturized High Throughput Transcriptome Profiling for Drug Discovery",
+    "collection": "drug_screenings"
+  },
+  "8 Synthon based Ligand Discovery in Virtual Libraries of Over 11 Billion Compounds": {
+    "item_key": "SKGKARH3",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/8_Synthon-based_Ligand_Discovery_in_Virtual_Libraries_of_Over_11_Billion_Compounds.pdf",
+    "title": "Synthon-based ligand discovery in virtual libraries of over 11 billion compounds",
+    "collection": "drug_screenings"
+  },
+  "2025 Nature Biotechnology Deep learning based virtual screening of antibacterial compounds": {
+    "item_key": "DHIIV8HK",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2025-Nature Biotechnology-Deep-learning-based virtual screening of antibacterial compounds.pdf",
+    "title": "Deep-learning-based virtual screening of antibacterial compounds",
+    "collection": "drug_screenings"
+  },
+  "2017 Cell Next Generation Connectivity Map L1000 Platform and the First 1,000,000 Profiles": {
+    "item_key": "RQQE6CNU",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2017 Cell_Next Generation Connectivity Map L1000 Platform and the First 1,000,000 Profiles.pdf",
+    "title": "A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Proﬁles",
+    "collection": "drug_screenings"
+  },
+  "2006 Sci Connectivity Map Using Gene Expression Signatures to Connect Small Molecules, Genes, and Disease": {
+    "item_key": "RC7X5FWB",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2006 Sci_Connectivity Map Using Gene-Expression Signatures to Connect Small Molecules, Genes, and Disease.pdf",
+    "title": "The Connectivity Map: Using Gene-Expression Signatures to Connect Small Molecules, Genes, and Disease",
+    "collection": "drug_screenings"
+  },
+  "2020 Nature An open source drug discovery platform enables ultra large virtual screens": {
+    "item_key": "K5RMEENA",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2020-Nature-An open-source drug discovery platform enables ultra-large virtual screens.pdf",
+    "title": "An open-source drug discovery platform enables ultra-large virtual screens",
+    "collection": "drug_screenings"
+  },
+  "李飞飞 agents": {
+    "item_key": "M7HEBQK4",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/李飞飞-agents.pdf",
+    "title": "Agent AI: Surveying the Horizons of Multimodal Interaction",
+    "collection": "biomedical_agents"
+  },
+  "webSailor": {
+    "item_key": "WDQSMBN5",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/webSailor.pdf",
+    "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+    "collection": "biomedical_agents"
+  },
+  "science.adp7710": {
+    "item_key": "RMC8QV8C",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/science.adp7710.pdf",
+    "title": "A molecular mechanism for bright color variation in parrots",
+    "collection": "biomedical_agents"
+  },
+  "全栈智能体构建：Gemini、CopilotKit、LangGraph实战": {
+    "item_key": "ATARZZNT",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/全栈智能体构建：Gemini、CopilotKit、LangGraph实战.pdf",
+    "title": "如何构建全栈智能体应用：Gemini + CopilotKit + LangGraph 实战指南",
+    "collection": "biomedical_agents"
+  },
+  "智能体设计模 式": {
+    "item_key": "NR8ESZCM",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/智能体设计模 式.pdf",
+    "title": "智能体设计模式",
+    "collection": "biomedical_agents"
+  },
+  "TxGemma": {
+    "item_key": "N4KMN4TK",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/TxGemma.pdf",
+    "title": "TxGemma: Efficient and Agentic LLMs for Therapeutics",
+    "collection": "biomedical_agents"
+  },
+  "TxAgent": {
+    "item_key": "3KHPRMFC",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/TxAgent.pdf",
+    "title": "TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools",
+    "collection": "biomedical_agents"
+  },
+  "a practical guide to building agents": {
+    "item_key": "P6MWX283",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/a-practical-guide-to-building-agents.pdf",
+    "title": "A practical guide to building agents",
+    "collection": "biomedical_agents"
+  },
+  "SciMaster": {
+    "item_key": "TRMUZTRS",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/SciMaster.pdf",
+    "title": "SciMaster: Towards General-Purpose Scientific AI Agents Part I. X-Master as Foundation — Can We Lead on Humanity’s Last Exam?",
+    "collection": "biomedical_agents"
+  },
+  "Streamline automated biomedical discoveries with agentic bioinformatics": {
+    "item_key": "32AT2AH9",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Streamline automated biomedical discoveries with agentic bioinformatics.pdf",
+    "title": "Streamline automated biomedical discoveries with agentic bioinformatics",
+    "collection": "biomedical_agents"
+  },
+  "GeneGPT": {
+    "item_key": "VVQXN6KW",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/GeneGPT.pdf",
+    "title": "GeneGPT: augmenting large language models with domain tools for improved access to biomedical information",
+    "collection": "biomedical_agents"
+  },
+  "BioReason": {
+    "item_key": "2RSSMUUC",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/BioReason.pdf",
+    "title": "BIOREASON: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model",
+    "collection": "biomedical_agents"
+  },
+  "2025.05.30.656746v1.full": {
+    "item_key": "JBSIVG8X",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2025.05.30.656746v1.full.pdf",
+    "title": "Biomni: A General-Purpose Biomedical AI Agent",
+    "collection": "biomedical_agents"
+  },
+  "清华－强化学习综述": {
+    "item_key": "BRDIEG9V",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/清华－强化学习综述.pdf",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "collection": "big_models"
+  },
+  "scPRINT gene network": {
+    "item_key": "78VNMH75",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/scPRINT-gene_network.pdf",
+    "title": "scPRINT: pre-training on 50 million cells allows robust gene network predictions",
+    "collection": "big_models"
+  },
+  "scFMs": {
+    "item_key": "BJXU57TI",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/scFMs.pdf",
+    "title": "Single-cell foundation models: bringing artificial intelligence into cell biology",
+    "collection": "big_models"
+  },
+  "scPEFT 2025": {
+    "item_key": "PEZEK489",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/scPEFT-2025.pdf",
+    "title": "Harnessing the Power of Single Cell Large Language Models with Parameter E–cient Fine-Tuning using scPEFT",
+    "collection": "big_models"
+  },
+  "scFundation": {
+    "item_key": "XFE7JMFI",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/scFundation.pdf",
+    "title": "Large Scale Foundation Model on Single-cell Transcriptomics",
+    "collection": "big_models"
+  },
+  "scBERT": {
+    "item_key": "A93V6WK5",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/scBERT.pdf",
+    "title": "scBERT: a Large-scale Pretrained Deep Langurage Model for Cell Type Annotation of Single-cell RNA-seq Data",
+    "collection": "big_models"
+  },
+  "s41576 022 00532 2": {
+    "item_key": "QN9JIVZF",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41576-022-00532-2.pdf",
+    "title": "Obtaining genetics insights from deep learning via explainable artificial intelligence",
+    "collection": "big_models"
+  },
+  "s13059 025 03749 6": {
+    "item_key": "K5KH33MX",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s13059-025-03749-6.pdf",
+    "title": "GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks",
+    "collection": "big_models"
+  },
+  "gLM": {
+    "item_key": "TP9U5DDJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/gLM.pdf",
+    "title": "A Phylogenetic Approach to Genomic Language Modeling",
+    "collection": "big_models"
+  },
+  "deepseek": {
+    "item_key": "QF7Q45N2",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/deepseek.pdf",
+    "title": "DeepSeek-V3 Technical Report",
+    "collection": "big_models"
+  },
+  "TheOpenMolecules2025(OMol25)Dataset, Evaluations, and Models": {
+    "item_key": "434GFVCI",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/TheOpenMolecules2025(OMol25)Dataset, Evaluations, and Models.pdf",
+    "title": "The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models",
+    "collection": "big_models"
+  },
+  "Titans v1": {
+    "item_key": "7NU5U57W",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Titans-v1.pdf",
+    "title": "Titans: Learning to Memorize at Test Time",
+    "collection": "big_models"
+  },
+  "PopEVE protein model": {
+    "item_key": "6HE8RG8W",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/PopEVE_protein_model.pdf",
+    "title": "Proteome-wide model for human disease genetics",
+    "collection": "big_models"
+  },
+  "Nucleotide Transformer": {
+    "item_key": "T6CXX2WJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Nucleotide Transformer.pdf",
+    "title": "Nucleotide Transformer: building and evaluating robust foundation models for human genomics",
+    "collection": "big_models"
+  },
+  "Large Language Models for Bioinformatics": {
+    "item_key": "URGKKFCW",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Large Language Models for Bioinformatics.pdf",
+    "title": "Large Language Models for Bioinformatics",
+    "collection": "big_models"
+  },
+  "Codon language embeddings provide strong signals for use in protein engineering": {
+    "item_key": "9HMI8ZK2",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Codon language embeddings provide strong signals for use in protein engineering.pdf",
+    "title": "Codon language embeddings provide strong signals for use in protein engineering",
+    "collection": "big_models"
+  },
+  "CellFM": {
+    "item_key": "T5K9ZMHV",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/CellFM.pdf",
+    "title": "CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells",
+    "collection": "big_models"
+  },
+  "Benchmarking foundation cell models for post perturbation RNA seq prediction": {
+    "item_key": "E3W9TJDE",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Benchmarking foundation cell models for post-perturbation RNA-seq prediction.pdf",
+    "title": "Benchmarking foundation cell models for post‑perturbation RNA‑seq prediction",
+    "collection": "big_models"
+  },
+  "Benchmarking Transcriptomics Foundation Models for Perturbation Analysis one PCA still rules them all": {
+    "item_key": "PTMUR9IK",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Benchmarking Transcriptomics Foundation Models for Perturbation Analysis -one PCA still rules them all.pdf",
+    "title": "Benchmarking Transcriptomics Foundation Models for Perturbation Analysis : one PCA still rules them all",
+    "collection": "big_models"
+  },
+  "A cell atlas foundation model for scalable search of similar human cells": {
+    "item_key": "HHMWURS4",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/A cell atlas foundation model for scalable search of similar human cells.pdf",
+    "title": "A cell atlas foundation model for scalable search of similar human cells",
+    "collection": "big_models"
+  },
+  "41592 2024 2305 MOESM1 ESM": {
+    "item_key": "6M8VPFGE",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/41592_2024_2305_MOESM1_ESM.pdf",
+    "title": "Large-scale foundation model on single-cell transcriptomics",
+    "collection": "big_models"
+  },
+  "2025 Nat A foundation model of transcription across human cell types": {
+    "item_key": "PQ397GGS",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2025 Nat_A foundation model of transcription across human cell types.pdf",
+    "title": "A foundation model of transcription across human cell types",
+    "collection": "big_models"
+  },
+  "2023 Nat Transfer learning enables predictions in network biology": {
+    "item_key": "EQN9NJT7",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2023 Nat_Transfer learning enables predictions in network biology.pdf",
+    "title": "Transfer learning enables predictions in network biology",
+    "collection": "big_models"
+  },
+  "Revolutionizing drug discovery": {
+    "item_key": "3ZF53HDF",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Revolutionizing drug discovery.pdf",
+    "title": "Revolutionizing drug discovery: The impact of artificial intelligence on advancements in pharmacology and the pharmaceutical industry",
+    "collection": "ai_drug_discovery"
+  },
+  "Improving drug response prediction via integrating gene relationships with deep learning": {
+    "item_key": "DTSNXM4T",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Improving drug response prediction via integrating gene relationships with deep learning.pdf",
+    "title": "Improving drug response prediction via integrating gene relationships with deep learning",
+    "collection": "ai_drug_discovery"
+  },
+  "FireShot Capture 007 美国FDA宣布放弃动物实验 [mp.weixin.qq.com]": {
+    "item_key": "3X27NR5C",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/FireShot Capture 007 - 美国FDA宣布放弃动物实验 - [mp.weixin.qq.com].pdf",
+    "title": "美国FDA宣布放弃动物实验",
+    "collection": "ai_drug_discovery"
+  },
+  "DLEPS 2021": {
+    "item_key": "FKHK67P6",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/DLEPS-2021.pdf",
+    "title": "Prediction of drug efficacy from transcriptional profiles with deep learning",
+    "collection": "ai_drug_discovery"
+  },
+  "7343932c 8b10 44e1 952d 56d89a66f7f7": {
+    "item_key": "U4JCEUEU",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/7343932c-8b10-44e1-952d-56d89a66f7f7.pdf",
+    "title": "A New Era of Artificial Intelligence (AI): Transforming Drug Discovery and Development",
+    "collection": "ai_drug_discovery"
+  },
+  "许东明 2025.10.13": {
+    "item_key": "TS3SPQEA",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/许东明-2025.10.13.pptx",
+    "title": "许东明 2025.10.13",
+    "collection": "Uncategorized"
+  },
+  "许东明 2025.08.11": {
+    "item_key": "SZ326HGD",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/许东明-2025.08.11.pptx",
+    "title": "许东明 2025.08.11",
+    "collection": "Uncategorized"
+  },
+  "许东明 2025.08.02 安医": {
+    "item_key": "2UGVXTNS",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/许东明-2025.08.02-安医.pptx",
+    "title": "许东明 2025.08.02 安医",
+    "collection": "Uncategorized"
+  },
+  "许东明 2025.04.10 赣南医学研究院": {
+    "item_key": "S44DU8KT",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/许东明-2025.04.10-赣南医学研究院.pptx",
+    "title": "许东明 2025.04.10 赣南医学研究院",
+    "collection": "Uncategorized"
+  },
+  "statins unintended off target to RyR1": {
+    "item_key": "4778EMNQ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/statins unintended off-target to RyR1.pdf",
+    "title": "Cryo-electron microscopy reveals sequential binding and activation of Ryanodine Receptors by statin triplets",
+    "collection": "Uncategorized"
+  },
+  "science.adi8577 mdar reproducibility checklist": {
+    "item_key": "DIA9ZG8A",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/science.adi8577_mdar_reproducibility_checklist.pdf",
+    "title": "science.adi8577 mdar reproducibility checklist",
+    "collection": "Uncategorized"
+  },
+  "s41598 022 26181 3": {
+    "item_key": "XWEWKBA2",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41598-022-26181-3.pdf",
+    "title": "Comparison of calling pipelines for whole genome sequencing: an empirical study demonstrating the importance of mapping and alignment",
+    "collection": "Uncategorized"
+  },
+  "s41586 024 07597 5": {
+    "item_key": "R66QD98N",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s41586-024-07597-5.pdf",
+    "title": "Widespread horse-based mobility arose around 2200 bce in Eurasia",
+    "collection": "Uncategorized"
+  },
+  "s13040 022 00315 9": {
+    "item_key": "ZCNXWPMH",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/s13040-022-00315-9.pdf",
+    "title": "Robust and rigorous identification of tissue-specific genes by statistically extending tau score",
+    "collection": "Uncategorized"
+  },
+  "manella et al 2019 hypoxia induces a time and tissue specific response that elicits intertissue circadian clock": {
+    "item_key": "8XTX7JXV",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/manella-et-al-2019-hypoxia-induces-a-time-and-tissue-specific-response-that-elicits-intertissue-circadian-clock.pdf",
+    "title": "Hypoxia induces a time- and tissue-specific response that elicits intertissue circadian clock misalignment",
+    "collection": "Uncategorized"
+  },
+  "gkae978": {
+    "item_key": "G4B5Z4IJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/gkae978.pdf",
+    "title": "Database Resources of the National Genomics Data Center, China National Center for Bioinformation in 2025",
+    "collection": "Uncategorized"
+  },
+  "ggkegg": {
+    "item_key": "4IQ9HGE6",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/ggkegg.pdf",
+    "title": "ggkegg: analysis and visualization of KEGG data utilizing the grammar of graphics",
+    "collection": "Uncategorized"
+  },
+  "Trends Artificial Intelligence": {
+    "item_key": "64HRA2F5",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Trends_Artificial_Intelligence.pdf",
+    "title": "Trends – Artificial Intelligence (AI)",
+    "collection": "Uncategorized"
+  },
+  "Titans": {
+    "item_key": "J2UKT3HG",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Titans.pdf",
+    "title": "Titans",
+    "collection": "Uncategorized"
+  },
+  "FireShot Capture 006 【重磅政策】国家卫健委发布，干细胞列入国家重点研发计划，慢性病与癌症防治迎来新篇章 [mp.weixin.qq.com]": {
+    "item_key": "SDCHW24T",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/FireShot Capture 006 - 【重磅政策】国家卫健委发布，干细胞列入国家重点研发计划，慢性病与癌症防治迎来新篇章 - [mp.weixin.qq.com].pdf",
+    "title": "国家卫健委发布，干细胞列入国家重点研发计划，慢性病与癌症防治迎来新篇章",
+    "collection": "Uncategorized"
+  },
+  "MT1": {
+    "item_key": "XH9R4SEH",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/MT1.pdf",
+    "title": "MT1X is an oncogene and indicates prognosis in ccRCC",
+    "collection": "Uncategorized"
+  },
+  "PIIS0092867424012534": {
+    "item_key": "M52MJ6BH",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/PIIS0092867424012534.pdf",
+    "title": "Discovery and significance of protein-protein interactions in health and disease",
+    "collection": "Uncategorized"
+  },
+  "OmniSVG A Unified Scalable Vector Graphics Generation Model": {
+    "item_key": "M7942Q4W",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/OmniSVG-A Unified Scalable Vector Graphics Generation Model.pdf",
+    "title": "OmniSVG: A Unified Scalable Vector Graphics Generation Model",
+    "collection": "Uncategorized"
+  },
+  "LLM v1.0.0": {
+    "item_key": "D7ZJ9PKB",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/LLM-v1.0.0.pdf",
+    "title": "面向开发者的 LLM 入门课程",
+    "collection": "Uncategorized"
+  },
+  "How people use chatGPT": {
+    "item_key": "NBXA2HC3",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/How_people_use_chatGPT.pdf",
+    "title": "How People Use ChatGPT",
+    "collection": "Uncategorized"
+  },
+  "Goolge whitepaper Prompt Engineering": {
+    "item_key": "AI4TGWVD",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Goolge-whitepaper_Prompt Engineering.pdf",
+    "title": "Prompt Engineering",
+    "collection": "Uncategorized"
+  },
+  "Comparing integrative ventilatory and renal acid base acclimatization in lowlanders and tibetan": {
+    "item_key": "W9TGUB3V",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/Comparing-integrative-ventilatory-and-renal-acid-base-acclimatization-in-lowlanders-and-tibetan.pdf",
+    "title": "Comparing integrative ventilatory and renal acid–base acclimatization in lowlanders and Tibetan highlanders during ascent to 4,300 m",
+    "collection": "Uncategorized"
+  },
+  "CTBP2": {
+    "item_key": "M9R3CA48",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/CTBP2.pdf",
+    "title": "Loss of CtBP2 may be a mechanistic link between metabolic derangements and progressive impairment of pancreatic b cell function",
+    "collection": "Uncategorized"
+  },
+  "CASD1": {
+    "item_key": "6P86P78C",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/CASD1.pdf",
+    "title": "Genome-Wide Alteration of 5-Hydroxymethylcytosine in Hypoxic-Ischemic Neonatal Rat Model of Cerebral Palsy",
+    "collection": "Uncategorized"
+  },
+  "CLSTN2 4": {
+    "item_key": "CSGXFDBD",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/CLSTN2-4.pdf",
+    "title": "Loss of calsyntenin paralogs disrupts interneuron stability and mouse behavior",
+    "collection": "Uncategorized"
+  },
+  "2507.20783v1": {
+    "item_key": "XI3WR5WJ",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2507.20783v1.pdf",
+    "title": "On The Role of Pretrained Language Models in General-Purpose Text Embeddings: A Survey",
+    "collection": "Uncategorized"
+  },
+  "2024 CSC Generation of iPSC derived human venous endothelial cells for the modeling of vascular malformations and drug discovery": {
+    "item_key": "I59M68PB",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2024 CSC_Generation of iPSC-derived human venous endothelial cells for the modeling of vascular malformations and drug discovery .pdf",
+    "title": "Generation of iPSC-derived human venous endothelial cells for the modeling of vascular malformations and drug discovery",
+    "collection": "Uncategorized"
+  },
+  "1 s2.0 S1672022923001006 main": {
+    "item_key": "VNHHQS2E",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/1-s2.0-S1672022923001006-main.pdf",
+    "title": "T2T-YAO: A Telomere-to-telomere Assembled Diploid Reference Genome for Han Chinese",
+    "collection": "Uncategorized"
+  },
+  "2022 EJH dawn of a new era of targeted lipid lowering therapies": {
+    "item_key": "DVVW2ZRB",
+    "pdf_path": "/media/shuifeng/BEA6-BBCE/pdfs/2022 EJH_dawn of a new era of targeted lipid-lowering therapies.pdf",
+    "title": "The dawn of a new era of targeted lipid-lowering therapies",
+    "collection": "Uncategorized"
+  }
+}

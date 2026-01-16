@@ -1,0 +1,46 @@
+# ============================================================================
+# EndNote RIS Generator - Requirements
+# ============================================================================
+
+# Core PDF Processing
+PyMuPDF>=1.23.0              # PDF text extraction and manipulation
+
+# Office Document Processing
+python-docx>=1.0.0           # Word document (.docx) text extraction
+python-pptx>=0.6.21          # PowerPoint (.pptx) text extraction
+
+# LLM API Clients
+openai>=1.0.0                # OpenAI SDK (also works with compatible APIs like Qwen)
+httpx>=0.24.0                # HTTP client for OpenAI SDK
+requests>=2.31.0             # HTTP client for Ollama and other APIs
+
+# Image Processing (for OCR)
+Pillow>=10.0.0               # Image manipulation for vision-based OCR
+
+# Windows COM Automation (Optional - for EndNote auto-import)
+pywin32>=306                 # Windows COM interface for EndNote automation
+                             # Note: Only needed if using auto_import_to_endnote.py
+
+# OCR Support (Optional)
+# Uncomment if you want to use Tesseract OCR instead of vision-based OCR:
+# ocrmypdf>=14.0.0           # Tesseract OCR wrapper
+# pytesseract>=0.3.10        # Python wrapper for Tesseract
+
+# ============================================================================
+# Installation Instructions
+# ============================================================================
+#
+# Basic installation (required):
+#   pip install -r requirements.txt
+#
+# For Tesseract OCR support (optional):
+#   1. Install Tesseract: https://github.com/tesseract-ocr/tesseract
+#   2. Uncomment ocrmypdf and pytesseract above
+#   3. pip install -r requirements.txt
+#
+# For EndNote COM automation (optional):
+#   pip install pywin32
+#   Note: Requires EndNote to be installed and registered in Windows
+#
+# ============================================================================
+

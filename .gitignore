@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Output directories
+output/
+logs/
+*.log
+
+# Test files
+test_output/
+endnote_test/
+endnote_test2/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+.DS_Store
+Thumbs.db
+
+# State files
+state.jsonl
+
+# PDF and document files (optional - uncomment if you don't want to track them)
+# pdf/
+# *.pdf
+# *.doc
+# *.docx
+# *.ppt
+# *.pptx
+# *.xls
+# *.xlsx
