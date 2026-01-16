@@ -1,5 +1,9 @@
 # EndNote RIS Generator
 
+[English](README_EN.md) | [中文](README_CN.md)
+
+---
+
 A powerful, AI-driven tool for generating EndNote and Zotero-compatible RIS files from various document formats and directory structures. This tool goes far beyond simple metadata extraction - it's a comprehensive solution for literature management, document recovery, and intelligent organization.
 
 ## What Can This Tool Do?
