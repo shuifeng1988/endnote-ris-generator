@@ -148,9 +148,15 @@ python endnote_cli.py create \
 
 ### 使用阿里云 API（推荐）
 
-##使用.env
-python endnote_cli.py create --dotenv .env2.txt --enable_ocr --ocr_lang eng+chi_sim --max_workers 10 --merge_supplements --auto_classify --num_categories 12 --predefined_categories "multiple-omics,High-Altitude-Adaptation,Echolocation,Genetic-Evolution,large-models,drug-screening,virtual-cell,WORD,PPT,others"
-python endnote_cli.py create --dotenv .env --enable_ocr --ocr_lang eng+chi_sim --max_workers 20 --merge_supplements --auto_classify --num_categories 20 --predefined_categories "multiple-omics,High-Altitude-Adaptation,Echolocation,Genetic-Evolution,Genomics,Convergent-Evolution,adaptive-evolution,Non-coding-elements,Diseases,WORD,PPT,others"
+## 使用.env
+```bash
+python endnote_cli.py create --dotenv .env2.txt --enable_ocr --ocr_lang eng+chi_sim \
+  --max_workers 10 \
+  --merge_supplements \
+  --auto_classify \
+  --num_categories 12 \
+  --predefined_categories "multiple-omics,High-Altitude-Adaptation,Echolocation,Genetic-Evolution,large-models,drug-screening,virtual-cell,WORD,PPT,others"
+```
 
 ```bash
 python endnote_cli.py create \

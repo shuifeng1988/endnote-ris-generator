@@ -149,7 +149,16 @@ python endnote_cli.py create \
 ### Using Alibaba Cloud API (Recommended)
 
 #### use .env
-python endnote_cli.py create --enable_ocr --ocr_lang eng+chi_sim --max_workers 10 --merge_supplements --auto_classify --num_categories 20 --predefined_categories "multiple-omics,High-Altitude-Adaptation,Echolocation,Genetic-Evolution,Genomics, Convergent-Evolution,large-models,WORD,PPT,others"
+
+```bash
+python endnote_cli.py create --dotenv .env2.txt --enable_ocr --ocr_lang eng+chi_sim \
+  --max_workers 10 \
+  --merge_supplements \
+  --auto_classify \
+  --num_categories 12 \
+  --predefined_categories "multiple-omics,High-Altitude-Adaptation,Echolocation,Genetic-Evolution,large-models,drug-screening,virtual-cell,WORD,PPT,others"
+```
+
 
 ```bash
 python endnote_cli.py create \
